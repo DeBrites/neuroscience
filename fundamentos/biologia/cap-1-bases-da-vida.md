@@ -1,192 +1,6 @@
-# 📘 Biologia de Campbell (10ª edição)
+# 📘 Biologia com foco para a neurociência
 ## Capítulo 1.1 — O estudo da vida revela temas comuns
 
-> **Pasta:** neurociencia/biologia  
-> **Livro-base:** Campbell et al., Biologia, 10ª edição  
-> **Objetivo:** estabelecer os princípios fundamentais da vida que servirão de base para o estudo da neurociência.
-
----
-
-## 🧠 Ideia central do capítulo
-
-Apesar da enorme diversidade de organismos existentes na Terra, **todas as formas de vida compartilham temas fundamentais**.
-
-A biologia busca identificar esses **padrões comuns**, que se repetem em diferentes níveis de organização — das moléculas até a biosfera — permitindo compreender **como a vida é estruturada, funciona e evolui**.
-
-> 📎 **Importância para a neurociência:**  
-> O sistema nervoso não pode ser compreendido isoladamente. Ele emerge desses mesmos princípios biológicos básicos.
-
----
-
-## 🌱 Temas centrais da biologia
-
-A vida pode ser compreendida a partir de **cinco grandes temas**, que servem como eixo integrador de toda a biologia:
-
-1. **Organização**
-2. **Informação**
-3. **Energia e matéria**
-4. **Interações**
-5. **Evolução**
-
-Esses temas ajudam a responder perguntas como:
-- O que define um ser vivo?
-- Como os organismos funcionam?
-- Como surgem estruturas complexas, como o cérebro?
-- Como a vida se diversificou ao longo do tempo?
-
----
-
-## 1️⃣ Organização
-
-A vida apresenta uma **organização hierárquica**, indo do mais simples ao mais complexo.
-
-Cada nível:
-- é construído a partir do nível anterior
-- apresenta **propriedades emergentes**
-- não pode ser totalmente explicado apenas pelas partes isoladas
-
-### 🔍 Níveis de organização biológica
-
-Do mais abrangente ao mais específico:
-
-- **Biosfera**
-- **Ecossistemas**
-- **Comunidades**
-- **Populações**
-- **Organismos**
-- **Sistemas de órgãos**
-- **Órgãos**
-- **Tecidos**
-- **Células**
-- **Organelas**
-- **Moléculas**
-
-### ✨ Propriedades emergentes
-
-> O todo apresenta características que **não existem nas partes isoladas**.
-
-Exemplo clássico:
-- As peças de uma bicicleta, separadamente, não se movem.
-- Quando organizadas corretamente, surge a função “andar”.
-
-📎 **Aplicação em neurociência:**  
-A consciência, a memória e o pensamento são propriedades emergentes do funcionamento integrado de neurônios, sinapses e redes neurais — não de um único neurônio isolado.
-
----
-
-## 2️⃣ Informação
-
-A vida é guiada por **informação biológica**, armazenada, transmitida e expressa pelas células.
-
-Principais pontos:
-- O **DNA** armazena a informação genética
-- Os **genes** determinam características estruturais e funcionais
-- A molécula de DNA possui estrutura de **dupla hélice**
-- O **RNA** atua como intermediário na expressão gênica
-- O **genoma** varia entre os organismos
-- A **bioinformática** permite analisar grandes volumes de dados biológicos
-
-📎 **Aplicação em neurociência:**  
-O funcionamento dos neurônios, a formação de sinapses e a plasticidade neural dependem da expressão gênica regulada ao longo do desenvolvimento e da vida.
-
----
-
-## 3️⃣ Energia e matéria
-
-Todo organismo vivo:
-- necessita de **energia**
-- depende de **matéria**
-- está em constante troca com o ambiente
-
-### Conceitos-chave
-
-- A **energia flui** (principalmente a partir do Sol)
-- A **matéria circula** em ciclos químicos (carbono, nitrogênio, água)
-- Os organismos transformam energia para manter a organização interna
-- Não existe vida sem troca com o ambiente
-
-📎 **Aplicação em neurociência:**  
-O cérebro é um dos órgãos que mais consome energia no corpo humano. Processos como potenciais de ação, liberação de neurotransmissores e manutenção do gradiente iônico dependem diretamente do metabolismo energético.
-
----
-
-## 4️⃣ Interações
-
-A vida depende de **relações entre componentes**, em todos os níveis:
-
-- Interações entre **moléculas**
-- Interações entre **células**
-- Interações entre **organismos**
-- Interações entre **ecossistemas**
-
-### 🔁 Retroalimentação (feedback)
-
-Os sistemas biológicos utilizam mecanismos de controle:
-
-#### 🔹 Retroalimentação negativa
-- Mantém a estabilidade
-- Contrabalança mudanças
-- Exemplo: controle da glicose sanguínea pela insulina
-
-#### 🔹 Retroalimentação positiva
-- Amplifica respostas
-- Geralmente temporária
-- Exemplo: coagulação sanguínea
-
-📎 **Aplicação em neurociência:**  
-Circuitos neurais utilizam feedback constantemente, tanto para estabilizar funções (homeostase) quanto para amplificar respostas (potenciais de ação e redes excitatórias).
-
----
-
-## 5️⃣ Evolução
-
-A evolução é o **tema unificador da biologia**.
-
-Ela explica:
-- a **unidade da vida** (ancestralidade comum)
-- a **diversidade dos organismos**
-
-### Princípios evolutivos
-
-- Todos os organismos compartilham ancestrais comuns
-- A diversidade surge por processos evolutivos ao longo do tempo
-- A classificação biológica reflete relações evolutivas
-
-### Classificação biológica
-
-Hierarquia taxonômica:
-- Domínio
-- Reino
-- Filo
-- Classe
-- Ordem
-- Família
-- Gênero
-- Espécie
-
-📎 **Aplicação em neurociência:**  
-O sistema nervoso humano é resultado de milhões de anos de evolução. Estruturas como o tronco encefálico, sistema límbico e córtex refletem diferentes etapas evolutivas.
-
----
-
-## 🧩 Síntese final
-
-- A vida segue **padrões comuns**
-- A organização gera **propriedades emergentes**
-- A informação biológica guia o funcionamento dos organismos
-- A energia flui e a matéria circula
-- As interações mantêm a estabilidade dos sistemas vivos
-- A evolução conecta todas as formas de vida
-
-> 🧠 **Mensagem-chave:**  
-> Para entender o cérebro, é necessário primeiro entender os princípios fundamentais da vida.
-
----
-# 📘 Biologia de Campbell (10ª edição)
-## Capítulo 1.1 — O estudo da vida revela temas comuns
-
-> **Pasta:** neurociencia/biologia  
-> **Livro-base:** Campbell et al., Biologia, 10ª edição  
 > **Objetivo:** estabelecer os princípios fundamentais da vida que servirão de base para o estudo da neurociência.
 
 ---
@@ -367,11 +181,8 @@ O sistema nervoso humano é resultado de milhões de anos de evolução. Estrutu
 
 ---
 
-# 📘 Biologia de Campbell (10ª edição)
 ## Capítulo 1.2 — A evolução é responsável pela unidade e diversidade da vida
-
-> **Pasta:** neurociencia/biologia  
-> **Livro-base:** Campbell et al., Biologia, 10ª edição  
+ 
 > **Objetivo:** compreender a evolução como o princípio que explica tanto a semelhança quanto a diversidade dos seres vivos, incluindo o sistema nervoso.
 
 ---
@@ -502,11 +313,9 @@ Diferenças cognitivas e comportamentais entre espécies refletem adaptações e
 > Compreender a evolução é essencial para entender por que o cérebro humano é como ele é — e não de outra forma.
 
 ---
-# 📘 Biologia de Campbell (10ª edição)
+
 ## Capítulo 1.3 — Ao estudar a natureza, os cientistas fazem observações, formulam e testam hipóteses
 
-> **Pasta:** neurociencia/biologia  
-> **Livro-base:** Campbell et al., Biologia, 10ª edição  
 > **Objetivo:** compreender como o conhecimento científico é produzido e validado, base fundamental para a pesquisa em neurociência.
 
 ---
@@ -691,11 +500,8 @@ Isso não invalida outras formas de conhecimento, mas define o **escopo do méto
 
 ---
 
-# 📘 Biologia de Campbell (10ª edição)
 ## Capítulo 1.4 — Ciência como atividade humana
 
-> **Pasta:** neurociencia/biologia  
-> **Livro-base:** Campbell et al., Biologia, 10ª edição  
 > **Objetivo:** compreender a ciência como um processo coletivo, histórico e social, fundamental para a produção de conhecimento em biologia e neurociência.
 
 ---
@@ -800,5 +606,3 @@ Conceitos sobre cérebro, mente e comportamento mudam conforme novas técnicas e
 
 > 🧠 **Mensagem-chave:**  
 > Estudar ciência é também compreender quem a produz, como ela se transforma e qual é seu impacto na sociedade.
-
----
